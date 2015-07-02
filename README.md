@@ -45,6 +45,15 @@ Get median output:
 
 ![alt text](https://github.com/stevenlordiam/InsightDataEngineeringCodingChallenge/blob/master/screenshot/ft2.png "ft2")
 
+###Run time test
+I use a large txt file `PrideAndPrejudice.txt` from [Project Gutenberg](http://www.gutenberg.org/) to test the run time of my code. 
+This test is run on my Mid-2011 Macbook Air, 4GB memory. It may run faster on your computer.
+The result is as follow.
+
+|File size|Total words|WordCount time|GetMedian time|
+|---------|-----------|--------------|--------------|
+|718 kb   |125,389    |8918ms        |1883ms        |
+
 
 ###Future work
 --------
